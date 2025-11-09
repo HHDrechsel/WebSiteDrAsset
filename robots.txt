@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.drassetbirdview.de/sitemap.xml
+
+# Allow all search engines to crawl all pages
+# Created: November 2025
